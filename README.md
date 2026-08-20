@@ -15,9 +15,9 @@ A sim-to-real locomotion project for [SpotMicro](https://github.com/mike4192/spo
 - 12-point Bezier curve gait generator, with omnidirectional motion (forward / backward / strafe / yaw)
 - Small learned residual policy for gait correction, trained in simulation
 - Cross-simulator validation: PyBullet → MuJoCo
-- Physical hardware build in progress (Raspberry Pi 4)
+- Physical hardware build in progress 
 
-A short write-up of the approach and a couple of the more interesting findings along the way is here: [`docs/notes.md`](docs/notes.md) *(placeholder — link to trimmed preprint)*.
+A short write-up of the approach and a couple of the more interesting findings along the way.
 
 ## Media
 
