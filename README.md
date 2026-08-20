@@ -5,7 +5,7 @@
 A sim-to-real locomotion project for [SpotMicro](https://github.com/mike4192/spotMicro), an open-source 12-DOF quadruped robot. Combines a corrected inverse-kinematics solver, Bezier-curve gait generation, and a lightweight learned gait-correction RL policy, validated in PyBullet and MuJoCo, with hardware deployment in progress.
 
 <p align="center">
-  <img src="media/walk_demo.gif" width="480" alt="SpotMicro walking demo — GIF placeholder"><br>
+  <img width="842" height="720" alt="robo-dog mujoco sim" src="https://github.com/user-attachments/assets/7856f2ee-ee63-4efe-acf3-01195483010e" />
   <em>Simulated walking gait — MuJoCo</em>
 </p>
 
@@ -23,7 +23,6 @@ A short write-up of the approach and a couple of the more interesting findings a
 
 | | | |
 |---|---|---|
-| ![Image 1](images/image 2.png) | ![placeholder](media/thumb2.png) | ![placeholder](media/thumb3.png) |
 
 *More clips and build photos added as hardware progress continues.*
 
