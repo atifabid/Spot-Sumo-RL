@@ -1,8 +1,8 @@
-# Spot-Sumo — SpotMicro Quadruped Locomotion
+# Spot-Sumo - SpotMicro Quadruped Locomotion
 
-**Status: 🚧 Ongoing research project**
+**Status: Ongoing research project**
 
-A sim-to-real locomotion project for [SpotMicro](https://github.com/mike4192/spotMicro), an open-source 12-DOF quadruped robot. Combines a corrected inverse-kinematics solver, Bezier-curve gait generation, and a lightweight learned gait-correction policy, validated in PyBullet and MuJoCo, with hardware deployment in progress.
+A sim-to-real locomotion project for [SpotMicro](https://github.com/mike4192/spotMicro), an open-source 12-DOF quadruped robot. Combines a corrected inverse-kinematics solver, Bezier-curve gait generation, and a lightweight learned gait-correction RL policy, validated in PyBullet and MuJoCo, with hardware deployment in progress.
 
 <p align="center">
   <img src="media/walk_demo.gif" width="480" alt="SpotMicro walking demo — GIF placeholder"><br>
@@ -23,7 +23,7 @@ A short write-up of the approach and a couple of the more interesting findings a
 
 | | | |
 |---|---|---|
-| ![placeholder](media/thumb1.png) | ![placeholder](media/thumb2.png) | ![placeholder](media/thumb3.png) |
+| ![Image 1](images/image 2.png) | ![placeholder](media/thumb2.png) | ![placeholder](media/thumb3.png) |
 
 *More clips and build photos added as hardware progress continues.*
 
